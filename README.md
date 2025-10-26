@@ -1,5 +1,5 @@
 # ESTE PROYECTO FUE DESARROLLADO JUNTO CON  MI EQUIPO  con fines educativos 
-#CURSO: FULLSTACK DEVELOPER SOFTWARE
+#CURSO: FULLSTACK DEVELOPER SOFTWARE V SEMESTRE
 * Kevin
 * Gerardo
 * Franklin
@@ -7,8 +7,9 @@
   <br>
 Tecnologias usadas:
 <br>
-  frontend
+  FRONTEND
   * Node.js  
   * React
-  backend
+<br>
+  BACKEND
   * bd con mongosh
