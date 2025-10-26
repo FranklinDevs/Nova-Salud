@@ -4,6 +4,7 @@
 * Gerardo
 * Franklin
 * Larry
+  <br>
 Tecnologias usadas:
   frontend
   * Node.js  
