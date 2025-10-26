@@ -5,7 +5,6 @@
 * Franklin
 * Larry
   
-  <br>
 Tecnologias usadas:
 
   FRONTEND
