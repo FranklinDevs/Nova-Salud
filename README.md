@@ -11,6 +11,6 @@ Tecnologias usadas:
   FRONTEND
   * Node.js  
   * React
-<br>
+
   BACKEND
   * bd con mongosh
