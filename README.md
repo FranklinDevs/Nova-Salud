@@ -6,7 +6,7 @@
 * Larry
   <br>
 Tecnologias usadas:
-<br>
+
   FRONTEND
   * Node.js  
   * React
