@@ -4,7 +4,7 @@
 * Gerardo
 * Franklin
 * Larry
-  Tecnologias usadas
+Tecnologias usadas:
   frontend
   * Node.js  
   * React
